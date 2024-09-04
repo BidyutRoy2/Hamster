@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
             attempts: 30,
         }
        13: {
-            name: 'Fluff Crusad',
+            name: 'Fluff Crusade',
             appToken: '112887b0-a8af-4eb2-ac63-d82df78283d9',
             promoId: '112887b0-a8af-4eb2-ac63-d82df78283d9',
             timing: 40000, // 40 seconds
