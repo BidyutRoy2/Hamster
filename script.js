@@ -84,6 +84,20 @@ document.addEventListener('DOMContentLoaded', () => {
             timing: 40000, // 40 seconds
             attempts: 30,
         }
+       13: {
+            name: 'Fluff Crusad',
+            appToken: '112887b0-a8af-4eb2-ac63-d82df78283d9',
+            promoId: '112887b0-a8af-4eb2-ac63-d82df78283d9',
+            timing: 40000, // 40 seconds
+            attempts: 30,
+        }
+       14: {
+            name: 'Tile Trio',
+            appToken: 'e68b39d2-4880-4a31-b3aa-0393e7df10c7',
+            promoId: 'e68b39d2-4880-4a31-b3aa-0393e7df10c7',
+            timing: 40000, // 40 seconds
+            attempts: 30,
+        }
     };
 
     const gameOptions = document.querySelectorAll('.game-option');
