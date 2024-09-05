@@ -98,6 +98,13 @@ document.addEventListener('DOMContentLoaded', () => {
             timing: 40000, // 40 seconds
             attempts: 30,
         },
+     15: {
+            name: 'Stone Age"',
+            appToken: '04ebd6de-69b7-43d1-9c4b-04a6ca3305af',
+            promoId: '04ebd6de-69b7-43d1-9c4b-04a6ca3305af',
+            timing: 40000, // 40 seconds
+            attempts: 30,
+        },
     };
 
     const gameOptions = document.querySelectorAll('.game-option');
