@@ -105,6 +105,13 @@ document.addEventListener('DOMContentLoaded', () => {
             timing: 40000, // 40 seconds
             attempts: 30,
         },
+     16: {
+            name: 'Bouncemasters"',
+            appToken: 'bc72d3b9-8e91-4884-9c33-f72482f0db37',
+            promoId: 'bc72d3b9-8e91-4884-9c33-f72482f0db37',
+            timing: 40000, // 40 seconds
+            attempts: 30,
+        },
     };
 
     const gameOptions = document.querySelectorAll('.game-option');
