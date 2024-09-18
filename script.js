@@ -119,6 +119,20 @@ document.addEventListener('DOMContentLoaded', () => {
             timing: 40000, // 40 seconds
             attempts: 30,
         },
+      18: {
+            name: 'Pin Out"',
+            appToken: 'd2378baf-d617-417a-9d99-d685824335f0',
+            promoId: 'd2378baf-d617-417a-9d99-d685824335f0',
+            timing: 40000, // 40 seconds
+            attempts: 30,
+        },
+     19: {
+            name: 'Count Masters"',
+            appToken: '4bdc17da-2601-449b-948e-f8c7bd376553',
+            promoId: '4bdc17da-2601-449b-948e-f8c7bd376553',
+            timing: 40000, // 40 seconds
+            attempts: 30,
+        },
     };
 
     const gameOptions = document.querySelectorAll('.game-option');
