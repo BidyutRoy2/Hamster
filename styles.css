@@ -22,8 +22,8 @@ body {
 
 .game-option {
     border: 1px solid #ddd;
-    border-radius: 10px;
-    padding: 10px;
+    border-radius: 8px;
+    padding: 8px;
     text-align: center;
     cursor: pointer;
     transition: transform 0.3s, border-color 0.3s;
@@ -61,7 +61,7 @@ h1 {
 }
 
 .game-option p {
-    font-weight: 300;
+    font-weight: 200;
     color: #555;
 }
 
@@ -71,7 +71,7 @@ h1 {
 }
 
 .form-group {
-    margin-bottom: 20px;
+    margin-bottom: 16px;
     text-align: left;
 }
 
