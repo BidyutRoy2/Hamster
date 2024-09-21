@@ -15,7 +15,7 @@ body {
     grid-template-columns: repeat(3, 1fr);
     gap: 15px;
     margin-bottom: 20px;
-    max-height: 300px; /* Adjust this height based on your layout needs */
+    max-height: 600px; /* Adjust this height based on your layout needs */
     overflow-y: auto;
     padding-right: 10px;
 }
@@ -41,15 +41,15 @@ body {
     border-radius: 10px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     padding: 30px;
-    max-width: 400px;
+    max-width: 500px;
     width: 100%;
     text-align: center;
 }
 
 h1 {
     margin-bottom: 25px;
-    font-size: 24px;
-    color: #007bff;
+    font-size: 30px;
+    color: #0040ff;
 }
 
 
