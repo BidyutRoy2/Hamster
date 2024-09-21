@@ -133,6 +133,27 @@ document.addEventListener('DOMContentLoaded', () => {
             timing: 40000, // 40 seconds
             attempts: 30,
         },
+     20: {
+            name: 'Factory World"',
+            appToken: 'd02fc404-8985-4305-87d8-32bd4e66bb16',
+            promoId: 'd02fc404-8985-4305-87d8-32bd4e66bb16',
+            timing: 40000, // 40 seconds
+            attempts: 30,
+        },
+     21: {
+            name: 'Among Water"',
+            appToken: 'daab8f83-8ea2-4ad0-8dd5-d33363129640',
+            promoId: 'daab8f83-8ea2-4ad0-8dd5-d33363129640',
+            timing: 40000, // 40 seconds
+            attempts: 30,
+        },
+     22: {
+            name: 'Infected Frontier"',
+            appToken: 'eb518c4b-e448-4065-9d33-06f3039f0fcb',
+            promoId: 'eb518c4b-e448-4065-9d33-06f3039f0fcb',
+            timing: 40000, // 40 seconds
+            attempts: 30,
+        },
     };
 
     const gameOptions = document.querySelectorAll('.game-option');
