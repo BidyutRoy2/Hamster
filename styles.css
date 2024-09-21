@@ -55,12 +55,13 @@ h1 {
 
 .game-option img {
     width: 100%;
+    height: auto;
     border-radius: 8px;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
 
 .game-option p {
-    font-weight: 500;
+    font-weight: 300;
     color: #555;
 }
 
