@@ -23,7 +23,7 @@ body {
 .game-option {
     border: 1px solid #ddd;
     border-radius: 8px;
-    padding: 8px;
+    padding: 6px;
     text-align: center;
     cursor: pointer;
     transition: transform 0.3s, border-color 0.3s;
